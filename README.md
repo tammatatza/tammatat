@@ -18,3 +18,7 @@
 
 ![4](https://user-images.githubusercontent.com/45365514/49273899-1abc5280-f4a9-11e8-87a3-644b51ad5553.PNG)
 
+>5.output เมื่อชนะเกม
+
+![5](https://user-images.githubusercontent.com/45365514/49274309-7fc47800-f4aa-11e8-98dc-f34128ad5e1e.PNG)
+
